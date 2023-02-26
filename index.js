@@ -83,7 +83,7 @@ function init() {
       {
         type: "input",
         message: questions[5],
-        name: "install",
+        name: "installation",
         validate: (value) => {
           if (value) {
             return true;
@@ -95,7 +95,7 @@ function init() {
       {
         type: "input",
         message: questions[6],
-        name: "test",
+        name: "tests",
         validate: (value) => {
           if (value) {
             return true;
@@ -120,7 +120,7 @@ function init() {
       {
         type: "input",
         message: questions[8],
-        name: "contributions",
+        name: "contributing",
         validate: (value) => {
           if (value) {
             return true;
@@ -131,8 +131,9 @@ function init() {
       },
     ])
     .then((response) => {
-      writeToFile("README.md", response)
-      console.log(response);
+      writeToFile("README.md", generateMarkdown(response));
+      console.log("Generating README...");
+    //   console.log(response);
     });
 }
 
