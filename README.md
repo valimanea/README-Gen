@@ -1,7 +1,7 @@
 
-# sad
+# Demo Project
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents:
   1. [Description](#description) 
@@ -13,42 +13,42 @@
   7. [Questions](#questions)
 
 
-  ## Description&nbsp;  
-  &nbsp;  
+  ## Description  
 
-  
-  ## Installation&nbsp;  
-  &nbsp;  
+  Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
+
+
+  ## Installation
+
   To install the necessary dependencies please run the following command: 
-  > da
-  &nbsp;  
+  > npm i
+
 
   ## Usage
-  &nbsp;  
-  da
-  &nbsp;  
+
+  Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
+
 
   ## Contributing
-  &nbsp;
 
-  da
-  &nbsp;
+  This mostly will be useful if you are developing an open-source project that you will need other developers to contribute to. You will want to add guidelines to let them know how they can contribute to your project.
+
 
   ## Tests
-  &nbsp;  
+
   To run tests please run the following command:
-  > da
-  &nbsp;  
+  > npm test
+
 
   ## License
-  &nbsp;  
-  This project is licenced under the  "Unlicense" license.
 
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-  &nbsp;  
+  This project is licenced under the  "MIT" license.
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
   ## Questions
-  &nbsp;  
-  For any questions regarding this repo, please contact me directly at dasd. You can find more of my work at [dasd
-  ](https://github.com/dasd/).
+
+  For any questions regarding this repo, please contact me directly at vali@github.com. You can find more of my work at [vali
+  ](https://github.com/vali/).
  
