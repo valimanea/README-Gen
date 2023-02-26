@@ -1,54 +1,31 @@
 
-# Demo Project
+# README-Gen
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Description
+The task for this assignment requires to create a command-line application to generate a high-quality README for any app. This should include the app's purpose, how to use the app, how to install it, how to report issues, and how to make contributions.
 
-## Table of Contents:
-  1. [Description](#description) 
-  2. [Installation](#installation)
-  3. [Usage](#usage)  
-  4. [Contributing](#contributing)
-  5. [Tests](#tests)
-  6. [License](#license)
-  7. [Questions](#questions)
+The command-line application that dynamically generates a professional README.md file from a user's input is built using the <a href="https://www.npmjs.com/package/inquirer">Inquirer package</a>.
 
+This allows the project creator to devote more time to working on the project.
 
-  ## Description  
+When a user is prompted for information about the application repository, a high-quality, professional README.md is generated with:
+- The title of my project
+- Sections entitled:
+  - Description
+  - Table of Contents
+  - Installation
+  - Usage
+  - License
+  - Contributing
+  - Tests
+  - Questions
 
-  Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
+# Screenshot
+![alt text](assets/images/screenshot.png)
 
+# Links
+<ul>
+  <li>GitHub Repository: https://github.com/valimanea/README-Gen/ </li>
+  <li>Video URL: https://drive.google.com/file/d/1vZqDJkCaKxSQxj9iubNGI5djWIgQc7Ex/view </li>
+</ul>
 
-  ## Installation
-
-  To install the necessary dependencies please run the following command: 
-  > npm i
-
-
-  ## Usage
-
-  Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
-
-
-  ## Contributing
-
-  This mostly will be useful if you are developing an open-source project that you will need other developers to contribute to. You will want to add guidelines to let them know how they can contribute to your project.
-
-
-  ## Tests
-
-  To run tests please run the following command:
-  > npm test
-
-
-  ## License
-
-  This project is licenced under the  "MIT" license.
-
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-  ## Questions
-
-  For any questions regarding this repo, please contact me directly at vali@github.com. You can find more of my work at [vali
-  ](https://github.com/vali/).
- 

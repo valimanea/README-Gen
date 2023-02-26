@@ -132,7 +132,7 @@ function init() {
     ])
     .then((response) => {
       console.log("Generating README...");
-      writeToFile("README.md", generateMarkdown(response));
+      writeToFile("README-Demo.md", generateMarkdown(response));
 
       //   console.log(response);
     });
