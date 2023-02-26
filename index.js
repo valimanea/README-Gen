@@ -131,9 +131,10 @@ function init() {
       },
     ])
     .then((response) => {
-      writeToFile("README.md", generateMarkdown(response));
       console.log("Generating README...");
-    //   console.log(response);
+      writeToFile("README.md", generateMarkdown(response));
+
+      //   console.log(response);
     });
 }
 

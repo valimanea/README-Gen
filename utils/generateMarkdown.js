@@ -38,33 +38,40 @@ ${licenseBadge(data)}
   6. [License](#license)
   7. [Questions](#questions)
 
-  ## Description
+
+  ## Description  
 
   ${data.description}
+
 
   ## Installation
 
   To install the necessary dependencies please run the following command: 
   > ${data.installation}
 
+
   ## Usage
 
   ${data.usage}
 
+
   ## Contributing
 
   ${data.contributing}
+
 
   ## Tests
 
   To run tests please run the following command:
   > ${data.tests}
 
+
   ## License
 
   This project is licenced under the  "${data.license[0]}" license.
 
   ${licenseBadge(data)}
+
 
   ## Questions
 
